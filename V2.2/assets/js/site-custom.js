@@ -244,7 +244,7 @@ $(document).ready(function() {
                 '</div>' +
                 '<div>' +
                 '<div><b>Email:</b></div>' +
-                '<div><a href="mailto:info@logzee.com">info@logzee.com</a></div>' +
+                '<div><a href="mailto:info@Transcastilla.com">info@Transcastilla.com</a></div>' +
                 '</div>' +
                 '</address>',
             latitude: -33.87695388579145,
